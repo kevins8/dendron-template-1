@@ -13,3 +13,4 @@ If you would like to contribute to the docs, you can do so by checking out our [
 
 If you would like to contribute to the development of dendron, you can do so by following the [contribution guidelines](https://github.com/dendronhq/dendron/blob/master/docs/CONTRIBUTING.md) from the [dendron repo](https://github.com/dendronhq/dendron).
 
+You can now contribute directly on a dendron site!
